@@ -21,3 +21,15 @@ segmentation — to identify exactly who churns, when and what drives it.
 *(To be updated as analysis progresses)*
 
 ## Project Structure
+customer-churn-analysis/
+│
+├── sql/          # All SQL queries with annotations
+├── visuals/      # Query result screenshots
+└── data/         # Dataset source reference
+
+## Status
+🔄 In Progress — SQL Diagnostic Analysis
+
+## Author
+[Cynthia Wanjiku Ng'ang'a] | Business Analytics Graduate Student  
+[https://www.linkedin.com/in/cynthia-ng%E2%80%99ang%E2%80%99a-b3b764350/]
